@@ -28,6 +28,13 @@ it.
 * [requests](https://github.com/kennethreitz/requests) 2.10 or later
 * Hue bridge (tested with the first generation only)
 
+Debian/Ubuntu cheat sheet:
+
+```
+sudo apt install autoconf python-gi-dev libgtk-3-dev python3-pip
+pip install --user phue netdisco requests
+```
+
 ### Installing
 
 1. Clone this repository.
